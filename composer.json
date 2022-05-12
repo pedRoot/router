@@ -1,0 +1,19 @@
+{
+    "name": "ptorres/router",
+    "description": "Practical of routing basic make wiht PHP",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ptorres\\Router\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Pedro Torres",
+            "email": "pedrotorres@outlook.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
